@@ -1,0 +1,5 @@
+Credentials cache: API:7B5FF787-2421-41FB-A90E-FF456368DBC5
+        Principal: lsuardi@42.FR
+
+  Issued                Expires               Principal
+Feb  3 09:12:39 2020  Feb 10 09:12:39 2020  krbtgt/42.FR@42.FR
