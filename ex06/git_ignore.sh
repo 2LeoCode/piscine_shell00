@@ -1,1 +1,1 @@
-git ls-files -o --ignored --exclude -standard
+git check-ignore **/*
