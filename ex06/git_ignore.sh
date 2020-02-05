@@ -1,1 +1,1 @@
-git check-ignore **/*
+git status --ignored -s |grep '^!!*' |sed 's/!! //g'
